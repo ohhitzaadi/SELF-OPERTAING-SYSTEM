@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "name": "NexusOS",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "${workspaceFolder}/src"
+      ],
+      "defines": [],
+      "compilerPath": "C:/Program Files/LLVM/bin/clang.exe",
+      "cStandard": "c11",
+      "intelliSenseMode": "windows-clang-x84"
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,12 @@
+-Isrc
+-target
+i386-pc-none-elf
+-ffreestanding
+-m32
+-mno-sse
+-mno-mmx
+-fno-stack-protector
+-fno-pic
+-fno-pie
+-Wall
+-Wextra
